@@ -1,6 +1,5 @@
 # Multiple-purpose-LED-display
-#LED display digitls/float, clock and date 
-#written by Fulian Qiu
+#LED display digitls/float, clock and date written by Fulian Qiu
 
 print('This program is for mimic digital LED display')
 num = input("Enter a number for LED display:")
