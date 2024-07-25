@@ -1,5 +1,5 @@
 # Multiple-purpose-LED-display
-#This program is to simulate LED display digitls/float, clock and date written by Fulian Qiu
+This program is to simulate LED display digitls/float, clock and date written by Fulian Qiu
 # ' ' represents 0 and '#' represents 1 in LED display
 print('This program is for mimic digital LED display')
 num = input("Enter a number for LED display:")
