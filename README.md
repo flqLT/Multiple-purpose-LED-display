@@ -2,6 +2,7 @@
 This program is to simulate LED display digitls/float, clock and date written by Fulian Qiu
 # ' ' represents 0 and '#' represents 1 in LED display
 print('This program is for mimic digital LED display')
+
 num = input("Enter a number for LED display:")
 
 #Define functions for digit segments
@@ -50,6 +51,7 @@ def time_1():
     
 for x in range(5):
     print()     
+    
     for i in num:
 
         if x == 0:
