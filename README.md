@@ -50,6 +50,7 @@ def time_1():
 #layers from top to bottom
     
 for x in range(5):
+
     print()     
     
     for i in num:
