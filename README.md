@@ -12,12 +12,7 @@ num = input("Enter a number for LED display:")
 
 def th_3():
     print('###',end=' ')
-    
-#left two
-
-def lt_2():
-    print('##',end=' ')
-    
+       
 #left-right
 
 def lr_2():
