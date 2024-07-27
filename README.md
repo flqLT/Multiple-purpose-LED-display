@@ -11,39 +11,39 @@ num = input("Enter a number for LED display:")
 #Three
 
 def th_3():
-    print(' ###',end='')
+    print('###',end=' ')
     
 #left two
 
 def lt_2():
-    print(' ##',end='')
+    print('##',end=' ')
     
 #left-right
 
 def lr_2():
-    print(' # #',end='')
+    print('# #',end=' ')
     
 #left one 
 
 def lt_1():
-    print(' #  ',end='')
+    print('#  ',end=' ')
     
 #right one
 
 def rt_1():
-    print('   #',end='')
+    print('  #',end=' ')
     
 def one_1():
-    print(' #',end='')
+    print('#',end=' ')
     
 def zero_1():
-    print('  ',end='')
+    print(' ',end=' ')
 
 def line():
-    print(' -',end='')
+    print('-',end=' ')
     
 def time_1():
-    print(' *',end='')
+    print('*',end=' ')
     
 #End of function defination
     
